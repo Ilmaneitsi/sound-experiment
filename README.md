@@ -1,5 +1,5 @@
 # sound-experiment
-a short max piece that i made about some of my experiences as a queer person traversing online spaces. an example output of this system can be found in example.wav.
+a short max piece that i made about some of my experiences as a queer person traversing online spaces. an example output of this system can be found in example.aif.
 
 The main thing that drives this is a genetic algorithm that attempts to piece together four different samples of me singing (with a rlly bad cold). At first the attempts are chaotic and jarring but over time due to the nature of the genetic algorithm it becomes somewhat understandable and a conversation can be interpreted. For this piece I took a lot of inspiration from Björk’s Medulla album which was almost entirely acapella much like this piece which is also acapella (If you don’t count maxmsp and javascript assistance).
 
